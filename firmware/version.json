@@ -1,1 +1,1 @@
-{"version":24,"build":"a1b2c3d4","md5":"a1b2c3d4e5f60718293a4b5c6d7e8f90","size":1148320,"url":"https://raw.githubusercontent.com/jna363786-cpu/AquaWatch-OTA/main/firmware/firmware.bin","file":"firmware.bin","notes":"v24 production: f4 Kalman + f5 lab, 180s S1, 60m S2 keep"}
+{"version":25,"build":"1c4b0405","md5":"1c4b04052d269222bf087cacb9275e3b","size":1459200,"url":"https://raw.githubusercontent.com/jna363786-cpu/AquaWatch-OTA/main/firmware/firmware.bin","file":"firmware.bin","notes":"Updated OTA fixed and Filter with Lab [2nd Edition]"}
