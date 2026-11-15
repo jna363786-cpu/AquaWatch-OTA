@@ -1,4 +1,1 @@
-{
-     "version": 23,
-     "url": "https://raw.githubusercontent.com/jna363786-cpu/AquaWatch-OTA/main/firmware/firmware.bin"
-   }
+{"version":24,"build":"e4cc7499","md5":"e4cc7499adbc7638f3e89c86178e346b","size":1460368,"url":"https://raw.githubusercontent.com/jna363786-cpu/AquaWatch-OTA/main/firmware/firmware.bin","file":"firmware.bin","notes":"New OTA version and Filter with Lab [Experiments]"}
